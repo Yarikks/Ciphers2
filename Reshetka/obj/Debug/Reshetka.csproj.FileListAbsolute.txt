@@ -1,0 +1,7 @@
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\Reshetka\bin\Debug\Reshetka.exe.config
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\Reshetka\bin\Debug\Reshetka.exe
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\Reshetka\bin\Debug\Reshetka.pdb
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\Reshetka\obj\Debug\Reshetka.csprojAssemblyReference.cache
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\Reshetka\obj\Debug\Reshetka.csproj.CoreCompileInputs.cache
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\Reshetka\obj\Debug\Reshetka.exe
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\Reshetka\obj\Debug\Reshetka.pdb

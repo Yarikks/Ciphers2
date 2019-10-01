@@ -1,0 +1,6 @@
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\MagicSquare\bin\Debug\MagicSquare.exe.config
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\MagicSquare\bin\Debug\MagicSquare.exe
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\MagicSquare\bin\Debug\MagicSquare.pdb
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\MagicSquare\obj\Debug\MagicSquare.csproj.CoreCompileInputs.cache
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\MagicSquare\obj\Debug\MagicSquare.exe
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\MagicSquare\obj\Debug\MagicSquare.pdb

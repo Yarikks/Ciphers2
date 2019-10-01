@@ -1,0 +1,6 @@
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\DoubleTrans\bin\Debug\DoubleTrans.exe.config
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\DoubleTrans\bin\Debug\DoubleTrans.exe
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\DoubleTrans\bin\Debug\DoubleTrans.pdb
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\DoubleTrans\obj\Debug\DoubleTrans.csproj.CoreCompileInputs.cache
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\DoubleTrans\obj\Debug\DoubleTrans.exe
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab2_ciphers\Ciphers\DoubleTrans\obj\Debug\DoubleTrans.pdb
